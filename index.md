@@ -7,12 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 Have a look at my github page [https://github.com/Ziyad-Benomar](https://github.com/Ziyad-Benomar)  
 [https://github.com/Ziyad-Benomar/Python-Games](https://github.com/Ziyad-Benomar/Python-Games)  
-[https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPfd](https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPfd)  
+[https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPf](https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKP)  
 [https://github.com/Ziyad-Benomar/Numerical-analysis](https://github.com/Ziyad-Benomar/Numerical-analysis)  
 [https://github.com/Ziyad-Benomar/Chess-data-analysis](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
-[Equidistribution-of-points-of-small-heights](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
-[https://github.com/Ziyad-Benomar/method-of-penalization](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
-[How-to-protect-yourself-against-unfortunate-hazards](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
+[Equidistribution-of-points-of-small-heights](https://github.com/Ziyad-Benomar/Equidistribution-of-points-of-small-heights)  
+[https://github.com/Ziyad-Benomar/method-of-penalization](https://github.com/Ziyad-Benomar/method-of-penalization)  
+[How-to-protect-yourself-against-unfortunate-hazards](https://github.com/Ziyad-Benomar/How-to-protect-yourself-against-unfortunate-hazards)  
 
 
 
