@@ -5,14 +5,14 @@ You can use the [editor on GitHub](https://github.com/Ziyad-Benomar/Ziyad-Benoma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-Have a look at my github page https://github.com/Ziyad-Benomar  
-https://github.com/Ziyad-Benomar/Python-Games  
-https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPfd  
-https://github.com/Ziyad-Benomar/Numerical-analysis  
-https://github.com/Ziyad-Benomar/Chess-data-analysis  
-https://github.com/Ziyad-Benomar/Equidistribution-of-points-of-small-heights   
-https://github.com/Ziyad-Benomar/method-of-penalization   
-https://github.com/Ziyad-Benomar/How-to-protect-yourself-against-unfortunate-hazards   
+Have a look at my github page [https://github.com/Ziyad-Benomar](https://github.com/Ziyad-Benomar)  
+[https://github.com/Ziyad-Benomar/Python-Games](https://github.com/Ziyad-Benomar/Python-Games)  
+[https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPfd](https://github.com/Ziyad-Benomar/User-scheduling-in-5G-MCKPfd)  
+[https://github.com/Ziyad-Benomar/Numerical-analysis](https://github.com/Ziyad-Benomar/Numerical-analysis)  
+[https://github.com/Ziyad-Benomar/Chess-data-analysis](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
+[https://github.com/Ziyad-Benomar/Equidistribution-of-points-of-small-heights](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
+[https://github.com/Ziyad-Benomar/method-of-penalization](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
+[https://github.com/Ziyad-Benomar/How-to-protect-yourself-against-unfortunate-hazards](https://github.com/Ziyad-Benomar/Chess-data-analysis)  
 
 
 
